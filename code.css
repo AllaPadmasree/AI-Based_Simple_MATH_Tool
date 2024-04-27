@@ -1,0 +1,22 @@
+body {
+    text-align: center;
+    font-size: 32px;
+    font-family: 'Indie Flower', sans-serif;
+    background-image: url("http://www.businesscomputingworld.co.uk/wp-content/uploads/2018/04/AI.jpeg")
+    
+}
+button {
+    border: 2px solid blue;
+    
+    padding-top: 10px;
+    padding-bottom: 10px;
+    border-radius: 10%;
+    font-size: 40px;
+    background-color: white;
+}
+div {
+    margin: 0 auto;
+    border-radius: 20px;
+    background-color: white;
+    width: 70%;
+}
